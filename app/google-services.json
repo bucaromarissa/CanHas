@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837883260334",
+    "firebase_url": "https://team-1-spike-exercise.firebaseio.com",
+    "project_id": "team-1-spike-exercise",
+    "storage_bucket": "team-1-spike-exercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837883260334:android:b9c57993d0e34dcb89ec3f",
+        "android_client_info": {
+          "package_name": "com.example.canhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837883260334-97lgvj0fptseg6lqpa96lldb7bhlrm5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBOmfvZZFh49Zu-WK__NVrDY4HuuJVSBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837883260334-97lgvj0fptseg6lqpa96lldb7bhlrm5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
